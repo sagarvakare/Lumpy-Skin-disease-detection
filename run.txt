@@ -1,0 +1,22 @@
+
+python -m venv lumpy
+
+lumpy\Scripts\activate
+
+pip install -r requirements.txt
+
+python app.py
+
+
+
+
+
+
+for second run
+
+
+lumpy\Scripts\activate
+
+
+python app.py
+
